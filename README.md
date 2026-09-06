@@ -23,8 +23,7 @@ Both trained for 10 epochs.
 
 [Garbage Classification dataset](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification) on Kaggle, ~2500 images across the 6 categories.
 
-To run this yourself, download it and put it in `data/Garbage classification/`, with each category in its own subfolder (`cardboard/`, `glass/`, etc).
 
 ## Running it
 
-Needs TensorFlow, NumPy, Pandas, Matplotlib. Just open the notebook and run it top to bottom.
+Needs TensorFlow, NumPy, Pandas, Matplotlib.
